@@ -1,0 +1,16 @@
+# Не загружаем токен
+.env
+
+# Не загружаем веса YOLO
+weights/
+
+# Папка для фото (временные файлы)
+photo/
+
+# Файлы IDE (PyCharm, VS Code)
+.idea/
+.vscode/
+
+# Кеш Python
+__pycache__/
+*.pyc
