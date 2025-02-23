@@ -1,5 +1,7 @@
 aiogram
-ultralytics
 opencv-python
-aiohttp
 numpy
+ultralytics
+python-dotenv
+aiohttp
+requests
