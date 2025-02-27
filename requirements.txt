@@ -3,3 +3,4 @@ ultralytics
 opencv-python
 aiohttp
 numpy
+python-dotenv
