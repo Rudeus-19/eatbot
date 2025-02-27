@@ -1,6 +1,11 @@
 aiogram
-ultralytics
 opencv-python
-aiohttp
 numpy
+<<<<<<< HEAD
 python-dotenv
+=======
+ultralytics
+python-dotenv
+aiohttp
+requests
+>>>>>>> cc02292a41be9635d6a5209901843e48331cd8a3
